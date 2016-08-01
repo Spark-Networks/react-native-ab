@@ -1,5 +1,5 @@
-var React = require('react-native');
-var { PropTypes } = React;
+var ReactNative = require('react-native');
+var React { PropTypes } = React;
 
 var Variant = React.createClass({
   propTypes: {
